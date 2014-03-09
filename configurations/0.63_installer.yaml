@@ -1,0 +1,11 @@
+---
+:ingredients:
+- :type: :installer
+  :installer_type: :custom
+  :source_url: http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.63-installer.exe
+  :package_name: PuTTY version 0.63
+  :installer_options: /VERYSILENT
+  :support_32bit: true
+  :support_64bit: 
+:support_32bit: true
+:support_64bit: 
